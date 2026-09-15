@@ -1,0 +1,6 @@
+{
+  "name": "Kāla-Krama: Interactive Indian Art History Timeline",
+  "description": "An interactive digital museum timeline charting the evolution of Indian art from prehistoric Bhimbetka to modernism with virtual artifact replicas, curatorial analysis, and academic submission documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
